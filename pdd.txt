@@ -3,3 +3,7 @@ LQ
 addNew
 
 修复bug测试分支
+
+public static void main(String [] args){
+
+}
